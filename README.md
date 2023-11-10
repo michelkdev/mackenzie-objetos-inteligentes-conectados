@@ -1,0 +1,1 @@
+# mackenzie-objetos-inteligentes-conectados
