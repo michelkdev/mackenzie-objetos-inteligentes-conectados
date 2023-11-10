@@ -11,4 +11,5 @@ Código do projeto, já incluso MQTT como implementação para comunicação web
 Usar Arduino IDE para melhor implementação.
 
 Diagrama:
+
 ![Screenshot](DiagramaProjeto.JPG)
