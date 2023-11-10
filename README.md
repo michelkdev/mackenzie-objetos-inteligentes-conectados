@@ -8,5 +8,7 @@ Atuadores: LED, LCD
 
 Código do projeto, já incluso MQTT como implementação para comunicação web.
 
+Usar Arduino IDE para melhor implementação.
+
 Diagrama:
-![Screenshot](Diagrama.png)
+![Screenshot](DiagramaProjeto.JPG)
