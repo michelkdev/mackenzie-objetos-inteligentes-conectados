@@ -6,8 +6,8 @@
 #define LED1 D7
 
 EspMQTTClient client(
-  "Steve Rogers II 2G",  // SSID WiFi
-  "4qynbpdsuttcp",       // PAssword WiFi
+  "NAME_WIFI",  // SSID WiFi
+  "PASSWORD_WIFI",       // PAssword WiFi
   "test.mosquitto.org",  // MQTT Broker
   "mqtt-wokwi",          // Client
   1883                   // MQTT port
